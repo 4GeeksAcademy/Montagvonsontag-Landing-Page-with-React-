@@ -1,5 +1,6 @@
 /* 
 
+
     You can write your own styles here...
     
     
@@ -9,3 +10,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.sticky-navbar {
+    position: sticky;
+    top: 0;
+    z-index:1000;
+}
+
+.custom-text-grey {
+    color: #b0b0b0; 
+  }
+
